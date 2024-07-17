@@ -1,1 +1,2 @@
 this is in branch1
+conflict example
